@@ -18,6 +18,7 @@ Erros have been resolved on on  "Navbar"  ,  "NavbarUser" and "LoginUser" , Thes
 ## Changes
 
 1. In this version I have renamed the Attributes of the Project so they can be easily read by eveyone.
+2. I also Added the ProjectID attribute to the Model of Project(Its functionality is similer to the ID of the User)
 
 ## Make it work
 
