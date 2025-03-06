@@ -1,5 +1,6 @@
 # ProjectManager-Profile-and-Create-Project
-Erros have been resolved on on  "Navbar"  ,  "NavbarUser" and "LoginUser" , These pages are updated to accoumudate the functionality of the ProjectManager, Also some pages and routes  have been added for the functionality of the create Project.
+
+Erros have been resolved on on "Navbar" , "NavbarUser" and "LoginUser" , These pages are updated to accoumudate the functionality of the ProjectManager, Also some pages and routes have been added for the functionality of the create Project.
 
 # Version 2
 
@@ -23,3 +24,5 @@ Erros have been resolved on on  "Navbar"  ,  "NavbarUser" and "LoginUser" , Thes
 ## Make it work
 
 in order to make this work you have to delete the projects collection from ther team_management_db Database
+
+# Project Creation Form is improved in Repo # T27
